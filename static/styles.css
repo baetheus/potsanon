@@ -1,0 +1,11 @@
+@import("./minimal.min.css");
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
