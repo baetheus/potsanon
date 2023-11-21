@@ -5,7 +5,7 @@
   },
   "imports": {
     "fun/": "https://deno.land/x/fun@v2.0.0/",
-    "pick/": "https://deno.land/x/pick@0.0.4/",
+    "pick/": "https://deno.land/x/pick@0.0.5/",
     "preact": "https://esm.sh/preact@10.15.1",
     "preact/": "https://esm.sh/preact@10.15.1/"
   },
