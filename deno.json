@@ -5,11 +5,11 @@
   },
   "imports": {
     "fun/": "https://deno.land/x/fun@v2.0.0/",
-    "pick/": "https://deno.land/x/pick@0.0.3/",
+    "pick/": "https://deno.land/x/pick@0.0.4/",
     "preact": "https://esm.sh/preact@10.15.1",
     "preact/": "https://esm.sh/preact@10.15.1/"
   },
   "tasks": {
-    "start": "deno run --allow-net server.ts"
+    "start": "deno run --allow-net main.ts"
   }
 }
